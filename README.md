@@ -14,7 +14,10 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp 
 
 #### 📝Blog
-[![velog Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://https://velog.io/@hosickk/)
+[![velog Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://velog.io/@hosickk)
+
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=hosik-GitHub" height="165">
 
 <!--
 **hosik-GitHub/hosik-GitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
