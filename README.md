@@ -1,12 +1,10 @@
-## Hi! WELCOME TO MY GITHUB!
+# Hi! WELCOME TO MY GITHUB!
 
-#### My name is Kim Ho-sik and I am currently studying software developers.🧑🏻‍💻�🌱
+My name is Kim Ho-sik and I am currently studying software developers.🧑🏻‍💻�🌱
 
-### About
-----------------
+## About
+
 #### 🌱 I’m currently learning
-
-#### 🛠 Tech Stack
 <p>
   <img src="http://img.shields.io/badge/-HTML5-DD4B25?style=for-the-badge&logo=HTML5&logoColor=white"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
@@ -16,10 +14,6 @@
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp 
   <img src="http://img.shields.io/badge/-Express-373737?style=for-the-badge&logo=Express&logoColor=white"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>
-  <img src="http://img.shields.io/badge/-Sequelize-00AFEE?style=for-the-badge&logo=Sequelize&logoColor=white"
-       style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
-  <img src="http://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"
-       style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
 </p>
 
 #### 📝Blog
