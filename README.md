@@ -21,7 +21,7 @@ My name is Kim Ho-sik and I am currently studying software developers.🧑🏻�
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hosik-GitHub&count_private=true&show_icons=true&theme=cobalt&icon_color=78D9F8)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosik-GitHub&layout=compact&card_width=445&hide=hack&exclude_repo=WP-hosik-GitHub-Site,defective-speaker,im-sprint-calculator,im-sprint-query-selector&theme=cobalt)](https://github.com/hosik-GitHub/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosik-GitHub&layout=compact&card_width=445&hide=hack&exclude_repo=WP-hosik-GitHub-Site,defective-speaker,im-sprint-calculator,im-sprint-query-selector&theme=cobalt)](https://github.com/hosik-GitHub/github-readme-stats)
 
 <!--
 **hosik-GitHub/hosik-GitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
