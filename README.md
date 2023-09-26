@@ -30,8 +30,8 @@ My name is Kim Ho-sik and I am currently studying software developers.🧑🏻�
 [**hosickk** | **삽질의 연속 블로그** : hosickk.log](https://velog.io/@hosickk)
 
 
-![Anurag's GitHub stats](https://github-readme-stats-mu-hazel-66.vercel.app/api?username=깃허브이름&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats-mu-hazel-66.vercel.app/api/top-langs/?username=깃허브이름&layout=compact&theme=dracula)
+<img height="180em" src="https://github-readme-stats-mu-hazel-66.vercel.app/api?username=hosik-GitHub&show_icons=true" />
+<img height="180em" src="https://github-readme-stats-mu-hazel-66.vercel.app/api/top-langs/?username=hosik-GitHub&layout=compact&hide=jupyter%20notebook" />
 
 
 
