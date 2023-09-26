@@ -32,8 +32,7 @@ My name is Kim Ho-sik and I am currently studying software developers.🧑🏻�
 
 
 ![Anurag's GitHub stats](https://github-readme-stats-mu-hazel-66.vercel.app/api?username=hosik-GitHub&show_icons=true&theme=algolia)
-![Top Langs](https://github-readme-stats-mu-hazel-66.vercel.app/api/top-langs/?username=hosik-GitHub&layout=compact&show_icons=true&theme=algolia)
-![Top Langs](https://github-readme-stats-mu-hazel-66.vercel.app/api/top-langs/?username=hosik-GitHub&langs_count=10&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-mu-hazel-66.vercel.app/api/top-langs/?username=hosik-GitHub&langs_count=10&layout=compact&theme=algolia)
 
 
 
