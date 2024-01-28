@@ -4,6 +4,6 @@
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=hosickk)](https://velog.io/@hosickk) 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hosickk)](https://github.com/hosickk/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hosickk/post-stats-update)](https://github.com/hosickk/velog-readme-stats)
 
 </div>
